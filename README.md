@@ -18,7 +18,7 @@ To start playing AstroGrid, follow these simple steps:
 1. **Clone the repository**:
    
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/RawabyRahal/A-lliance-App.git
 
 2. Navigate to the project directory:
     ```bash
@@ -37,6 +37,6 @@ To start playing AstroGrid, follow these simple steps:
    ```bash
    Open the localhost in port 8585 in your preferred web browser
 
-Enjoy playing AstroGrid:
+#### Enjoy playing AstroGrid:
 
-Once the page loads in your browser, click 'Start Game' to begin. Then, listen to the A-lliance Space Quest theme. Next, choose a topic for the questions. After that, navigate to the game board. Roll the dice, answer questions correctly, and navigate through the cosmic challenges with your friend!
+   Once the page loads in your browser, click 'Start Game' to begin. Then, listen to the A-lliance Space Quest theme. Next, choose a topic for the questions. After that, navigate to the game board. Roll the dice, answer questions correctly, and navigate through the cosmic challenges with your friend!
