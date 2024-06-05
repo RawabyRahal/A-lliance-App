@@ -38,7 +38,7 @@ Make sure you have MongoDB installed and running on your system. The backend ser
 
 
 2. **Access the application**:
-3. 
+ 
    ```bash
    Open your web browser and navigate to `http://localhost:8585`
 
