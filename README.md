@@ -24,15 +24,16 @@ To start playing AstroGrid, follow these simple steps:
     ```bash
    cd A-lliance-App
 
-4. Start the backend server:
+3. Start the backend server:
    ```bash
    Install dependencies using npm
    npm install
 
-# Start the backend server
-npm start
+4. Start the backend server:
+   ```bash
+   npm start
 
-Start the frontend:
+5. Start the frontend:
    ```bash
    Open the localhost in port 8585 in your preferred web browser
 
