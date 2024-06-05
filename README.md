@@ -9,3 +9,34 @@ Each turn, roll the dice to determine how far you'll journey. But beware of blac
 As you navigate this celestial challenge, immerse yourself in spacey sound effects and make use of the radio system for added enjoyment.
 
 Ready for liftoff? Let's embark on this cosmic adventure together!
+
+
+## Installation
+
+To start playing AstroGrid, follow these simple steps:
+
+1. **Clone the repository**:
+   
+   ```bash
+   git clone <repository-url>
+
+2. Navigate to the project directory:
+   cd A-lliance-App
+
+3. Start the backend server:
+
+bash
+# Navigate to the backend directory
+cd backend
+
+# Install dependencies using npm
+npm install
+
+# Start the backend server
+npm start
+
+Start the frontend:
+# Navigate to the frontend directory
+cd ../dist
+
+# Open the index.html file in your preferred web browser
