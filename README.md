@@ -21,22 +21,21 @@ To start playing AstroGrid, follow these simple steps:
    git clone <repository-url>
 
 2. Navigate to the project directory:
+    ```bash
    cd A-lliance-App
 
-3. Start the backend server:
-
-bash
-# Navigate to the backend directory
-cd backend
-
-# Install dependencies using npm
-npm install
+4. Start the backend server:
+   ```bash
+   Install dependencies using npm
+   npm install
 
 # Start the backend server
 npm start
 
 Start the frontend:
-# Navigate to the frontend directory
-cd ../dist
+   ```bash
+   Open the localhost in port 8585 in your preferred web browser
 
-# Open the index.html file in your preferred web browser
+Enjoy playing AstroGrid:
+
+Once the page loads in your browser, click 'Start Game' to begin. Then, listen to the A-lliance Space Quest theme. Next, choose a topic for the questions. After that, navigate to the game board. Roll the dice, answer questions correctly, and navigate through the cosmic challenges with your friend!
