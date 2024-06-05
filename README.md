@@ -8,7 +8,7 @@ Each turn, roll the dice to determine how far you'll journey. But beware of blac
 
 As you navigate this celestial challenge, immerse yourself in spacey sound effects and make use of the radio system for added enjoyment.
 
-### Ready for liftoff? Let's embark on this cosmic adventure together!
+#### Ready for liftoff? Let's embark on this cosmic adventure together!
 
 
 ## Installation
