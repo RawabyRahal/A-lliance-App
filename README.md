@@ -24,7 +24,7 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 ### Database
 - MongoDB (NoSQL database)
 
-### 🛠️ Tools and Libraries
+## 🛠️ Tools and Libraries
 - Axios (Promise-based HTTP client for JavaScript)
 - npm (Node Package Manager for managing project dependencies)
 
