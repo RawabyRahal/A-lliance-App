@@ -10,6 +10,9 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 
 #### Ready for liftoff? Let's embark on this cosmic adventure together! 🌠
 
+![Screenshot 2024-06-05 162402](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/d0cbad50-be63-4736-bffa-3e5511aaa5c4)
+
+
 ## ⚙️ Technologies Used
 
 ### Frontend
