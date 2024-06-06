@@ -1,4 +1,4 @@
-# AstroGrid
+# AstroGrid 🚀🌌
 
 Welcome to AstroGrid, where you and a friend rocket through space on a cosmic game board!
 
@@ -8,9 +8,9 @@ Each turn, roll the dice to determine how far you'll journey. But beware of blac
 
 As you navigate this celestial challenge, immerse yourself in spacey sound effects and make use of the radio system for added enjoyment.
 
-#### Ready for liftoff? Let's embark on this cosmic adventure together!
+#### Ready for liftoff? Let's embark on this cosmic adventure together! 🌠
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 ### Frontend
 - HTML (Hypertext Markup Language)
@@ -24,10 +24,9 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 ### Database
 - MongoDB (NoSQL database)
 
-### Other Tools and Libraries
+### 🛠️ Tools and Libraries
 - Axios (Promise-based HTTP client for JavaScript)
 - npm (Node Package Manager for managing project dependencies)
-
 
 ## Installation
 
@@ -46,20 +45,21 @@ To start playing AstroGrid, follow these simple steps:
    ```bash
    npm install
 
-## Running the Application
+## Running the Application 🚀
+
 1. **Start the backend server**:
    
    ```bash
    node server.js
+
 #### Note:
 Make sure you have MongoDB installed and running on your system. The backend server will attempt to connect to MongoDB using the default URL `mongodb://127.0.0.1:27017/AllianceDB`. If your MongoDB instance is running on a different port or requires authentication, you may need to modify the MongoDB connection URI in your backend code.
-
 
 2. **Access the application**:
  
    ```bash
    Open your web browser and navigate to `http://localhost:8585`
 
-### Enjoy playing AstroGrid:
+### Enjoy playing AstroGrid! 🌟
 
 Once the page loads in your browser, click 'Start Game' to begin. Then, listen to the A-lliance Space Quest theme. Next, choose a topic for the questions. After that, navigate to the game board. Roll the dice, answer questions correctly, and navigate through the cosmic challenges with your friend!
