@@ -10,6 +10,23 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 
 #### Ready for liftoff? Let's embark on this cosmic adventure together!
 
+# Technologies Used
+
+## Frontend
+- HTML (Hypertext Markup Language)
+- CSS (Cascading Style Sheets)
+- JavaScript (JS)
+
+## Backend
+- Express (Node.js web application framework)
+- Mongoose (Object Data Modeling library for MongoDB and Node.js)
+
+## Database
+- MongoDB (NoSQL database)
+
+## Other Tools and Libraries
+- Axios (Promise-based HTTP client for JavaScript)
+- npm (Node Package Manager for managing project dependencies)
 
 ## Installation
 
