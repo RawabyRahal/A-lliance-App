@@ -13,20 +13,20 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 ## ⚙️ Technologies Used
 
 ### Frontend
-- HTML (Hypertext Markup Language)
-- CSS (Cascading Style Sheets)
-- JavaScript (JS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) (Hypertext Markup Language)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Cascading Style Sheets)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS)
 
 ### Backend
-- Express (Node.js web application framework)
-- Mongoose (Object Data Modeling library for MongoDB and Node.js)
+- [Express](https://expressjs.com/) (Node.js web application framework)
+- [Mongoose](https://mongoosejs.com/) (Object Data Modeling library for MongoDB and Node.js)
 
 ### Database
-- MongoDB (NoSQL database)
+- [MongoDB](https://www.mongodb.com/) (NoSQL database)
 
 ## 🛠️ Tools and Libraries
-- Axios (Promise-based HTTP client for JavaScript)
-- npm (Node Package Manager for managing project dependencies)
+- [Axios](https://axios-http.com/) (Promise-based HTTP client for JavaScript)
+- [npm](https://www.npmjs.com/) (Node Package Manager for managing project dependencies)
 
 ## Installation
 
