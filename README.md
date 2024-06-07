@@ -1,5 +1,8 @@
 # AstroGrid 🚀🌌
 
+![Screenshot 2024-06-05 162402](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/d0cbad50-be63-4736-bffa-3e5511aaa5c4)
+
+
 Welcome to AstroGrid, where you and a friend rocket through space on a cosmic game board!
 
 This space-themed adventure pits two players against each other in a race to reach the end.
@@ -9,8 +12,6 @@ Each turn, roll the dice to determine how far you'll journey. But beware of blac
 As you navigate this celestial challenge, immerse yourself in spacey sound effects and make use of the radio system for added enjoyment.
 
 #### Ready for liftoff? Let's embark on this cosmic adventure together! 🌠
-
-![Screenshot 2024-06-05 162402](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/d0cbad50-be63-4736-bffa-3e5511aaa5c4)
 
 
 ## ⚙️ Technologies Used
