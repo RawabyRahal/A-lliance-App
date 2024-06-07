@@ -1,6 +1,6 @@
 # AstroGrid 🚀🌌
 
-### main menu
+###                   main menu
 
 ![Screenshot 2024-06-07 030602](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/0a0124bb-267d-4cef-8d40-2f1ff220e481)
 
