@@ -9,7 +9,7 @@ Each turn, roll the dice to determine how far you'll journey. But beware of blac
 As you navigate this celestial challenge, immerse yourself in spacey sound effects and make use of the radio system for added enjoyment.
 
 #### Ready for liftoff? Let's embark on this cosmic adventure together! 🌠
-
+<br>
 ## Game Interface Images
 #### Main Menu
 
@@ -23,8 +23,6 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 
 ![Screenshot 2024-06-07 030647](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/b6b949d4-64e4-4edd-b8d9-846384848734)
 
-
-<br>
 
 ## ⚙️ Technologies Used
 
