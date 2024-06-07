@@ -1,6 +1,7 @@
 # AstroGrid 🚀🌌
 
-![Screenshot 2024-06-05 162402](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/d0cbad50-be63-4736-bffa-3e5511aaa5c4)
+#### game screen
+![Uploading Screenshot 2024-06-07 030647.png…]()
 
 
 Welcome to AstroGrid, where you and a friend rocket through space on a cosmic game board!
