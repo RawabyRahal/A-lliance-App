@@ -15,6 +15,7 @@
 
 
 <br>
+
 #### Welcome to AstroGrid, where you and a friend rocket through space on a cosmic game board!
 
 This space-themed adventure pits two players against each other in a race to reach the end.
