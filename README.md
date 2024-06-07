@@ -1,6 +1,14 @@
 # AstroGrid 🚀🌌
 
-#### game screen
+### main menu
+
+![Screenshot 2024-06-07 030602](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/0a0124bb-267d-4cef-8d40-2f1ff220e481)
+
+### pre-game menu
+
+![Screenshot 2024-06-07 030615](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/e786b08c-3805-4e23-911a-4b9df91d0f4c)
+
+### game screen
 
 ![Screenshot 2024-06-07 030647](https://github.com/RawabyRahal/A-lliance-App/assets/70092095/b6b949d4-64e4-4edd-b8d9-846384848734)
 
