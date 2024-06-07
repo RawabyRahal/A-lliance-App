@@ -10,6 +10,7 @@ As you navigate this celestial challenge, immerse yourself in spacey sound effec
 
 #### Ready for liftoff? Let's embark on this cosmic adventure together! 🌠
 <br>
+
 ## Game Interface Images
 #### Main Menu
 
