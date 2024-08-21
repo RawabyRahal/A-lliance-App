@@ -74,7 +74,7 @@ Make sure you have MongoDB installed and running on your system. The backend ser
    ```bash
    Open your web browser and navigate to `http://localhost:8585`
 <br>
->נר<
+
 ### Enjoy playing AstroGrid! 🌟
 
 Once the page loads in your browser, click 'Start Game' to begin. Then, listen to the A-lliance Space Quest theme. Next, choose a topic for the questions. After that, navigate to the game board. Roll the dice, answer questions correctly, and navigate through the cosmic challenges with your friend!
